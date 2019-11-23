@@ -1,0 +1,9 @@
+librosa==0.6.0
+Unidecode==1.0.22
+numpy==1.15.4
+inflect==1.0.1
+falcon==1.4.1
+matplotlib==3.0.1
+scipy==1.1.0
+tensorflow==1.5.0
+tqdm==4.28.1
