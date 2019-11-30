@@ -1,6 +1,6 @@
-# Tacotron Example
+# zhtts
 
-Tacotron语音合成样例，中文的语音合成。
+中文的语音合成，Tacotron模型。
 
 An implementation of Tacotron speech synthesis in TensorFlow.
 
