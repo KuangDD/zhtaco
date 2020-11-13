@@ -5,5 +5,5 @@ inflect==1.0.1
 falcon==1.4.1
 matplotlib==3.0.1
 scipy==1.1.0
-tensorflow==1.5.0
+tensorflow==2.3.1
 tqdm==4.28.1
